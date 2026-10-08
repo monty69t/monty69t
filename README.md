@@ -36,15 +36,10 @@
 
 ---
 
-### 📊 GitHub Статистика
+### 🏆 Достижения
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monty69t&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=8b5cf6&icon_color=3b82f6&text_color=f5f5f5" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monty69t&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=8b5cf6&text_color=f5f5f5" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monty69t&theme=tokyonight&hide_border=true&background=0a0a0a&ring=8b5cf6&fire=3b82f6&currStreakLabel=8b5cf6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=monty69t&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 </p>
 
 ---
